@@ -1,4 +1,4 @@
-import './page1.css'; // Replace 'page1.css' with your CSS file path
+import './page1.css'; 
 
 import Meta from '@/components/Meta';
 
