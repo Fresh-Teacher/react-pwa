@@ -1,7 +1,7 @@
 {
-  "name": "React PWA",
-  "short_name": "reactpwa",
-  "description": "Starter kit for modern web applications",
+  "name": "Fresh App",
+  "short_name": "Fresh App",
+  "description": "Platform for educational materials and resources.",
   "theme_color": "#ffffff",
   "icons": [
     {
