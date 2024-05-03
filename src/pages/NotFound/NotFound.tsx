@@ -14,7 +14,7 @@ function NotFound() {
         <h1 style={{ color: "antiquewhite" }}>ERROR!</h1>
         <h2><span>4</span><span>0</span><span>4</span></h2>
         <div className="grass"></div>
-        <img src="aeroplane.png" alt="" className="plane" />
+        <img src="src/pages/NotFound/aeroplane.png" alt="" className="plane" />
     </div>
     <div className="field">
         <h2>Opps...looks like you got lost.</h2>
