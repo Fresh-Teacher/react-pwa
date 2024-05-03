@@ -35,7 +35,7 @@ const routes: Routes = {
   [Pages.Page4]: {
     component: asyncComponentLoader(() => import('@/pages/Page4')),
     path: '/page-4',
-    title: 'Movies',
+    title: 'Videos',
     icon: MovieIcon,
   },
   [Pages.NotFound]: {
