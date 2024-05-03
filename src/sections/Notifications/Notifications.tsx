@@ -15,7 +15,7 @@ const CustomNotification = forwardRef(function CustomNotification(
 ) {
   return (
     <Alert ref={ref} severity="info">
-      <AlertTitle>Notification demo (random IT jokes :))</AlertTitle>
+      <AlertTitle>FRESH JOKE 😆🤣</AlertTitle>
       {message}
     </Alert>
   );

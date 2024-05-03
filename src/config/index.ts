@@ -2,29 +2,29 @@ import isMobile from '@/utils/is-mobile';
 
 import type { Notifications } from './types';
 
-const title = 'React PWA';
+const title = 'Fresh Teachers Library';
 
-const email = 'auther-email@gmail.com';
+const email = 'freshteacheruganda256@gmail.com';
 
 const repository = 'https://github.com/suren-atoyan/react-pwa';
 
 const messages = {
   app: {
     crash: {
-      title: 'Oooops... Sorry, I guess, something went wrong. You can:',
+      title: 'Oooops...something went wrong! You can:',
       options: {
-        email: `contact with author by this email - ${email}`,
-        reset: 'Press here to reset the application',
+        email: `contact with author using this email - ${email}`,
+        reset: 'Click here to reset the application',
       },
     },
   },
   loader: {
-    fail: 'Hmmmmm, there is something wrong with this component loading process... Maybe trying later would be the best idea',
+    fail: 'Hmmmmm, there is something wrong with the loading process... Maybe trying later would be the best idea 😢',
   },
   images: {
-    failed: 'something went wrong during image loading :(',
+    failed: 'something went wrong during image loading 🥺 ',
   },
-  404: 'Hey bro? What are you looking for?',
+  404: 'Sap bro? What are you looking for? 🤔',
 };
 
 const dateFormat = 'MMMM DD, YYYY';
