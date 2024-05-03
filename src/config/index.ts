@@ -2,7 +2,7 @@ import isMobile from '@/utils/is-mobile';
 
 import type { Notifications } from './types';
 
-const title = 'Fresh Teachers Library';
+const title = "Fresh Teacher's Library 📚";
 
 const email = 'freshteacheruganda256@gmail.com';
 
@@ -14,7 +14,7 @@ const messages = {
       title: 'Oooops...something went wrong! You can:',
       options: {
         email: `contact with author using this email - ${email}`,
-        reset: 'Click here to reset the application',
+        reset: 'Or click here to reset the application',
       },
     },
   },
