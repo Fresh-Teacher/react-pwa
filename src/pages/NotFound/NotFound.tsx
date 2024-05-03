@@ -18,7 +18,7 @@ function NotFound() {
           <span>4</span>
         </h2>
         <div className="grass"></div>
-        <img src="aeroplane.png" alt="" className="plane" />
+        <img src="https://raw.githubusercontent.com/Fresh-Teacher/react-pwa/main/aeroplane.png" alt="" className="plane" />
       </div>
       <div className="field">
         <h2>Oops...looks like you got lost.</h2>
